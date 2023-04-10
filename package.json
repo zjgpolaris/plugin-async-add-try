@@ -1,0 +1,7 @@
+{
+  "name": "@zjgpolaris/plugin-async-add-try",
+  "version": "1.0.0-beta.0",
+  "main": "lib/index.js",
+  "description": "尝试给async函数添加trycatch",
+  "author": "zjg"
+}
